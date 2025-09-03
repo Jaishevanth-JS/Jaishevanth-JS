@@ -71,7 +71,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/jaishevanth_14/">
-    <img src="https://leetcard.jacoblin.cool/jaishevanth_14?ext=contest&theme=dark" alt="Jaishevanth's LeetCode Stats" width="80%" />
+    <img src="https://leetcard.jacoblin.cool/jaishevanth_14?ext=contest&theme=dark" alt="Jaishevanth's LeetCode Stats" width="55%" />
   </a>
 </p>
 
