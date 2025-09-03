@@ -1,20 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ravi Gupta</h1>
-<h3 align="center">A passionate Software Development Engineer from India</h3>
+<h1 align="center">Hi 👋, I'm Jaishevanth J.S</h1>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
-
-## 👨‍💻 About Me
-
-- 🌱 Currently learning **DSA, Full-Stack Web Development, and Machine Learning**
-- 💻 Working on **MERN Stack Projects** like **E-commerce, Bike Rental, and News Apps**
-- 🎨 Experienced in **Frontend & Backend Development** using **React.js, Node.js, Express.js, MongoDB**
-- 🔐 Exploring **Website Security** and **API Penetration Testing**
-- 🤖 Interested in **AI-Integrated Web Applications** and **Transfer Learning for Image Classification**
-- 📝 Passionate about **Deep Learning, Computer Vision, and Blockchain Applications**
-- 📧 Reach me at **jaishevanth1214@gmail.com**
-
----
-
 ## 🛠️ Tech Stack
 
 ### 🌐 Frontend
