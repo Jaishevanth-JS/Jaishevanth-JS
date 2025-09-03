@@ -92,27 +92,19 @@
 ## 📫 Let's Connect!
 
 <p align="center">
-  <!-- Email -->
+
   <a href="mailto:jaishevanth1214@gmail.com" target="_blank">
     <img width="48" height="48" src="https://img.icons8.com/fluency/48/gmail-new.png" title="Email" alt="Email"/>
   </a>
 
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/jaishevanth-js" target="_blank">
     <img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" title="LinkedIn" alt="LinkedIn"/>
   </a>
 
-  <!-- GitHub -->
-  <a href="https://github.com/Jaishevanth-JS" target="_blank">
-    <img width="48" height="48" src="https://img.icons8.com/sf-regular-filled/48/github.png" title="GitHub" alt="GitHub"/>
-  </a>
-
-  <!-- Instagram -->
   <a href="https://www.instagram.com/jaishevanth_/?hl=en" target="_blank">
     <img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" title="Instagram" alt="Instagram"/>
   </a>
 
-  <!-- Portfolio -->
   <a href="https://jaishevanth-portfolio.web.app" target="_blank">
     <img width="48" height="48" src="https://img.icons8.com/fluency/48/domain.png" title="Portfolio" alt="Portfolio"/>
   </a>
