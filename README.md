@@ -1,33 +1,7 @@
-<!-- Profile Header -->
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="Coding Animation" width="300" />
-      </td>
-      <td>
-        <h1>Hi 👋, I'm Jaishevanth</h1>
-        <h3>🚀 Final Year B.E. CSE Student | Aspiring Full-Stack Developer | Machine Learning Enthusiast</h3>
-        <p>
-          <a href="https://github.com/Jaishevanth-JS">
-            <img src="https://img.shields.io/github/followers/Jaishevanth-JS?label=Follow%20Me&style=social" alt="GitHub Followers" />
-          </a>
-          <a href="mailto:jaishevanth1214@gmail.com">
-            <img src="https://img.shields.io/badge/Email-jaishevanth1214%40gmail.com-red?style=flat&logo=gmail" alt="Email" />
-          </a>
-          <a href="https://www.linkedin.com/in/jaishevanth-js">
-            <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
-          </a>
-          <a href="https://jaishevanth-portfolio.web.app">
-            <img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=flat&logo=google-chrome" alt="Portfolio" />
-          </a>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
+<h1 align="center">Hi 👋, I'm Ravi Gupta</h1>
+<h3 align="center">A passionate Software Development Engineer from India</h3>
 
----
+<img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
 
 ## 👨‍💻 About Me
 
