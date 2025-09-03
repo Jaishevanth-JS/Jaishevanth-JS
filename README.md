@@ -93,30 +93,31 @@
 
 <p align="center">
   <!-- Email -->
-  <a href="mailto:jaishevanth1214@gmail.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" />
+  <a href="mailto:jaishevanth1214@gmail.com" target="_blank">
+    <img width="48" height="48" src="https://img.icons8.com/fluency/48/gmail-new.png" alt="gmail"/>
   </a>
-  
+
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/jaishevanth-js" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/jaishevanth-js" target="_blank">
+    <img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>
   </a>
 
   <!-- GitHub -->
-  <a href="https://github.com/Jaishevanth-JS" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+  <a href="https://github.com/Jaishevanth-JS" target="_blank">
+    <img width="48" height="48" src="https://img.icons8.com/sf-regular/48/github.png" alt="github"/>
   </a>
 
   <!-- Instagram -->
-  <a href="https://www.instagram.com/jaishevanth_/?hl=en" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  <a href="https://www.instagram.com/jaishevanth_/?hl=en" target="_blank">
+    <img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram"/>
   </a>
 
   <!-- Portfolio -->
-  <a href="https://jaishevanth-portfolio.web.app" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="Portfolio" height="30" width="40" />
+  <a href="https://jaishevanth-portfolio.web.app" target="_blank">
+    <img width="64" height="64" src="https://img.icons8.com/nolan/64/portfolio.png" alt="portfolio"/>
   </a>
 </p>
+
 
 
 
