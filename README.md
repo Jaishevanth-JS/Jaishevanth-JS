@@ -59,26 +59,64 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats  
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Jaishevanth-JS&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jaishevanth-JS&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jaishevanth-JS&theme=dark&show_icons=true&hide=issues,contribs" alt="Jaishevanth's GitHub stats" width="55%" />
 </p>
 
+---
+
+## 🏆 LeetCode Stats  
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaishevanth-JS&layout=compact&theme=radical" alt="Top Languages" />
+  <a href="https://leetcode.com/u/jaishevanth_14/">
+    <img src="https://leetcard.jacoblin.cool/jaishevanth_14?ext=contest&theme=dark" alt="Jaishevanth's LeetCode Stats" width="80%" />
+  </a>
 </p>
+
+---
+
+## 📊 GitHub Activity Graph  
+
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jaishevanth-JS&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true" alt="Jaishevanth's GitHub Activity Graph" width="95%" />
+  </a>
+</p>
+
+
 
 ---
 
 ## 📫 Let's Connect!
 
 <p align="center">
-  <a href="mailto:jaishevanth1214@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/jaishevanth-js"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/Jaishevanth-JS"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://jaishevanth-portfolio.web.app"><img src="https://img.shields.io/badge/Portfolio-Visit-FF7139?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+  <!-- Email -->
+  <a href="mailto:jaishevanth1214@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/D14836/gmail.png" alt="Email" width="45" height="45"/>
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/jaishevanth-js" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png" alt="LinkedIn" width="45" height="45"/>
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/Jaishevanth-JS" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/50/000000/github.png" alt="GitHub" width="45" height="45"/>
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/jaishevanth_/?hl=en" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/E4405F/instagram-new.png" alt="Instagram" width="45" height="45"/>
+  </a>
+
+  <!-- Portfolio -->
+  <a href="https://jaishevanth-portfolio.web.app" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/FF7139/domain.png" alt="Portfolio" width="45" height="45"/>
+  </a>
 </p>
+
 
 ---
