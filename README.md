@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Alex Chen
+### Hi there 👋, I'm Jaishevanth J.S
 
 **A passionate Full-Stack Developer from New York building the web, one line of code at a time.**
 
