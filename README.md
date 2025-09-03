@@ -93,30 +93,31 @@
 
 <p align="center">
   <!-- Email -->
-  <a href="mailto:jaishevanth1214@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/D14836/gmail.png" alt="Email" width="45" height="45"/>
+  <a href="mailto:jaishevanth1214@gmail.com" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" />
   </a>
-
+  
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/jaishevanth-js" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png" alt="LinkedIn" width="45" height="45"/>
+  <a href="https://www.linkedin.com/in/jaishevanth-js" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 
   <!-- GitHub -->
-  <a href="https://github.com/Jaishevanth-JS" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/50/000000/github.png" alt="GitHub" width="45" height="45"/>
+  <a href="https://github.com/Jaishevanth-JS" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
   </a>
 
   <!-- Instagram -->
-  <a href="https://www.instagram.com/jaishevanth_/?hl=en" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/E4405F/instagram-new.png" alt="Instagram" width="45" height="45"/>
+  <a href="https://www.instagram.com/jaishevanth_/?hl=en" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 
   <!-- Portfolio -->
-  <a href="https://jaishevanth-portfolio.web.app" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/FF7139/domain.png" alt="Portfolio" width="45" height="45"/>
+  <a href="https://jaishevanth-portfolio.web.app" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="Portfolio" height="30" width="40" />
   </a>
 </p>
+
 
 
 ---
