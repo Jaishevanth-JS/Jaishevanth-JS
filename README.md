@@ -2,6 +2,17 @@
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
+
+## 👨‍💻 About Me
+
+- 🌱 Currently learning **DSA** and **Full-Stack Web Development**  
+- 💻 Working on **MERN Stack Projects** like **E-commerce Website** and **Bike Rental Marketplace**  
+- 🎨 Experienced in **Frontend & Backend Development** using **React.js, Node.js, Express.js, and MongoDB**  
+- 🛠️ Comfortable with **Java, JavaScript, SQL, HTML, and CSS**  
+- 🧩 Experienced in developing **responsive and scalable web applications**  
+- 📚 Completed internships at **Cognifyz Technologies** and **Oghasampadh IT Solutions**  
+- 📧 Reach me at **jaishevanth1214@gmail.com**
+
 ## 🛠️ Tech Stack
 
 ### 🌐 Frontend
