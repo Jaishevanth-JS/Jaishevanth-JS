@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
+---
 
 ## 👨‍💻 About Me
 
@@ -36,6 +37,15 @@
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=database)
 
+## 🛠️ IDE & Tools Used
+
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipse-ide&logoColor=white)
+
+
 ---
 
 ## 📂 Featured Projects
@@ -43,7 +53,6 @@
 🔹 [**E-commerce Website (MERN)**](https://github.com/Jaishevanth-JS/E-Commerce)  
 🔹 [**Self-Drive Bike Rental Marketplace**](https://github.com/Jaishevanth-JS/Bike-Rental-Market-place)  
 🔹 [**SmartBus Java Reservation System**](https://github.com/Jaishevanth-JS/SmartBus-Java-Reservation-System)
-🔹 [**Address Book Management System**](https://github.com/Jaishevanth-JS/Address-book-Management-System-)  
 
 ---
 
@@ -56,14 +65,6 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaishevanth-JS&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jaishevanth-JS&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 ---
