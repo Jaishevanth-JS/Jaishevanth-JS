@@ -34,9 +34,9 @@
 ### 🧩 Programming Languages
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-  <img src="https://img.icons8.com/ios-filled/50/4479A1/sql.png" alt="SQL" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" />
 </p>
 
 
